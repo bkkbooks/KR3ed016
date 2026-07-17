@@ -26,12 +26,11 @@ assets:
   - {seq: 0, filename: KR3ed016_000-jc.yaml, hash: 'sha256:2495257d548a188de70bed0aa11b6c5a2c738e9732d7d99d79e6e4937cad3065'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed016_000-jc.markers.yaml, hash: 'sha256:2266dbb632bbb4f69fbc83715054cf5ed3455d7e4030dc510a32633d11734ba1'}
-  - {seq: 1, role: markers, filename: assets/KR3ed016_001-jc.markers.yaml, hash: 'sha256:a3f574024d95e400ad91debd880ba29697085f4c813c07317f11c06592bca4f7'}
-  - {seq: 2, role: markers, filename: assets/KR3ed016_002-jc.markers.yaml, hash: 'sha256:cc0bcd8f4b3fbf9a08a5f9038efea6152086fbb6081d0a9ab00ef607561460f9'}
-  - {seq: 3, role: markers, filename: assets/KR3ed016_003-jc.markers.yaml, hash: 'sha256:028132b03437f49f540cac99b8203c09ccc205adc0c628767bb5ae5b2acd8fd1'}
-  - {seq: 4, role: markers, filename: assets/KR3ed016_004-jc.markers.yaml, hash: 'sha256:018b04e6ad2c6204cc33912e87917892039e64bb2438b51724d1e6407b5fa4d9'}
-  - {seq: 5, role: markers, filename: assets/KR3ed016_005-jc.markers.yaml, hash: 'sha256:580e99c9c87771c8f8063629e61b79e727841a23ee52e583cd6995cc5bfb4534'}
-  - {seq: 0, role: markers, filename: assets/KR3ed016_000-jc.markers.yaml, hash: 'sha256:2266dbb632bbb4f69fbc83715054cf5ed3455d7e4030dc510a32633d11734ba1'}
+  - {seq: 1, role: markers, filename: assets/KR3ed016_001-jc.markers.yaml, hash: 'sha256:b16e9429f25cc3c19d0901f620bbbb9e09c2ff12ff78720bbfcd469769199e9d'}
+  - {seq: 2, role: markers, filename: assets/KR3ed016_002-jc.markers.yaml, hash: 'sha256:32d25a42d68a9595993f0888b4b9199dc684d65e9c64cec2da0b3147b716fbb3'}
+  - {seq: 3, role: markers, filename: assets/KR3ed016_003-jc.markers.yaml, hash: 'sha256:5b04de92763d4a2132e99e3180384e225f8efa2111bd2a803189b79270a43956'}
+  - {seq: 4, role: markers, filename: assets/KR3ed016_004-jc.markers.yaml, hash: 'sha256:3cb1798d3cbfc6d360650ee299378fea933afc8f7ef416f90a3ad717154e220a'}
+  - {seq: 5, role: markers, filename: assets/KR3ed016_005-jc.markers.yaml, hash: 'sha256:1792ec006521c88123a1036e2bb03886bedd5108af9481abcfe9d464dfebd32b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1723,4 +1722,4 @@ table_of_contents:
   label: 後記
   type: section
   level: 1
-hash: sha256:69d2c0d978184756bd8c6872483fd2eb602db4903ae51a7f72acc548c23731c3
+hash: sha256:9c158677e1502ebd3d171ce275cea0ccdfea11eee2bc4c32f3076c7714276162
